@@ -1,0 +1,19 @@
+{
+  "name": "device-cloud-service",
+  "version": "1.0.0",
+  "description": "My device to cloud to powerbi to web interaction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "raspberry",
+    "pi",
+    "device",
+    "iot",
+    "power",
+    "bi"
+  ],
+  "author": "Rahul Sahay",
+  "license": "ISC"
+}
